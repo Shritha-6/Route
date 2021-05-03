@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.Card5 {
+  width: 260px;
+  height: 216px;
+  border: 6px solid;
+  margin: 16px;
+  display: inline-grid;
+  user-select: none;
+  cursor: pointer;
+  padding-top: 100px;
+  background-color: blue;
+}
+.Card6 {
+  width: 260px;
+  height: 216px;
+  border: 6px solid;
+  margin: 16px;
+  display: inline-grid;
+  user-select: none;
+  cursor: pointer;
+  padding-top: 100px;
+  background-color: coral;
+}
+.Card7 {
+  width: 260px;
+  height: 216px;
+  border: 6px solid;
+  margin: 16px;
+  display: inline-grid;
+  user-select: none;
+  cursor: pointer;
+  padding-top: 100px;
+  background-color: darkcyan;
+}
